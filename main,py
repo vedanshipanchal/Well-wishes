@@ -1,0 +1,4 @@
+def greet():
+    print("Hi teacher")
+    print("how are you?")
+greet()
